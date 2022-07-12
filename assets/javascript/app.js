@@ -8,7 +8,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['FFGapple', 'Is', 'Finished', 'For Now...', 'Thats why I HATE Microsoft', 'Thank You For All Your Supports. Goodbye...
+  brandDescription = ['FFGapple', 'Is', 'Finished', 'For Now...', 'Thats why I HATE Microsoft', 'Thank You For All Your Supports. Goodbye...']
 
   titleChanger = (text, delay) => {
     if (!text) return;
