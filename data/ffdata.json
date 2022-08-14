@@ -1,9 +1,7 @@
 {
-"ffver": "4.0 - Stable",
-"resx": "1920",
-"resy": "1080",
-"ip": "ffgapple.github.io",
-"port": "21",
-"ver": "1.19",
+   "FFGapple Data" : [ // Tablo adı
+      {
+         "ffver": "Build 4.0 - Stable"
+      }
+   ]
 }
-
