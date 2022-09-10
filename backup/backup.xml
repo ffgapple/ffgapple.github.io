@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<profiling>
+  <offline id="FFGapple Backup Profile">
+    <directserver></directserver>
+    <directport></directport>
+	<width>1920</width>
+	<heigth>1080</heigth>
+	<version>1.19</version>
+  </offline>
+ </profiling>
