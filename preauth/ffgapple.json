@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)",
+      "lastVersionId": "ffgapple-cleanedtoken4.0"
+    },
+  },
+  "selectedProfile": "here_will_be_0000",
+  "clientToken": "0-0-0-0",
+  "authenticationDatabase": {
+    "ff-preauth": {
+      "displayName": "ffgapple",
+      "accessToken": "null",
+      "userid": "ffgapple",
+      "uuid": "000000000-000000000-00000000000-00000000000",
+      "username": "ffgapple"
+    }
+  },
+  "selectedUser": "ff-preauth",
+  "launcherVersion": {
+    "name": "0",
+    "format": 17
+  }
+}
