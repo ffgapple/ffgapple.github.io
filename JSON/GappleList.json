@@ -1,126 +1,192 @@
 {
 	"GVL": [{
-			"version": "1.19.4"
+			"Vanilla": "1.19.4"
 		},
 		{
-			"version": "1.19.3"
+			"Vanilla": "1.19.3"
 		},
 		{
-			"version": "1.19.2"
+			"Vanilla": "1.19.2"
 		},
 		{
-			"version": "1.19.1"
+			"Vanilla": "1.19.1"
 		},
 		{
-			"version": "1.19"
+			"Vanilla": "1.19"
 		},
 		{
-			"version": "1.18.2"
+			"Vanilla": "1.18.2"
 		},
 		{
-			"version": "1.18.1"
+			"Vanilla": "1.18.1"
 		},
 		{
-			"version": "1.18"
+			"Vanilla": "1.18"
 		},
 		{
-			"version": "1.17.1"
+			"Vanilla": "1.17.1"
 		},
 		{
-			"version": "1.17"
+			"Vanilla": "1.17"
 		},
 		{
-			"version": "1.16.5"
+			"Vanilla": "1.16.5"
 		},
 		{
-			"version": "1.16.4"
+			"Vanilla": "1.16.4"
 		},
 		{
-			"version": "1.16.3"
+			"Vanilla": "1.16.3"
 		},
 		{
-			"version": "1.16.2"
+			"Vanilla": "1.16.2"
 		},
 		{
-			"version": "1.16.1"
+			"Vanilla": "1.16.1"
 		},
 		{
-			"version": "1.16"
+			"Vanilla": "1.16"
 		},
 		{
-			"version": "1.15.2"
+			"Vanilla": "1.15.2"
 		},
 		{
-			"version": "1.15.1"
+			"Vanilla": "1.15.1"
 		},
 		{
-			"version": "1.15"
+			"Vanilla": "1.15"
 		},
 		{
-			"version": "1.14.4"
+			"Vanilla": "1.14.4"
 		},
 		{
-			"version": "1.14.3"
+			"Vanilla": "1.14.3"
 		},
 		{
-			"version": "1.14.2"
+			"Vanilla": "1.14.2"
 		},
 		{
-			"version": "1.14.1"
+			"Vanilla": "1.14.1"
 		},
 		{
-			"version": "1.14"
+			"Vanilla": "1.14"
 		},
 		{
-			"version": "1.13.2"
+			"Vanilla": "1.13.2"
 		},
 		{
-			"version": "1.13.1"
+			"Vanilla": "1.13.1"
 		},
 		{
-			"version": "1.13"
+			"Vanilla": "1.13"
 		},
 		{
-			"version": "1.12.2"
+			"Vanilla": "1.12.2"
 		},
 		{
-			"version": "1.12.1"
+			"Vanilla": "1.12.1"
 		},
 		{
-			"version": "1.12"
+			"Vanilla": "1.12"
 		},
 		{
-			"version": "1.11.2"
+			"Vanilla": "1.11.2"
 		},
 		{
-			"version": "1.11.1"
+			"Vanilla": "1.11.1"
 		},
 		{
-			"version": "1.10.2"
+			"Vanilla": "1.10.2"
 		},
 		{
-			"version": "1.10.1"
+			"Vanilla": "1.10.1"
 		},
 		{
-			"version": "1.10"
+			"Vanilla": "1.10"
 		},
 		{
-			"version": "1.9.4"
+			"Vanilla": "1.9.4"
 		},
 		{
-			"version": "1.9.3"
+			"Vanilla": "1.9.3"
 		},
 		{
-			"version": "1.9.2"
+			"Vanilla": "1.9.2"
 		},
 		{
-			"version": "1.9.1"
+			"Vanilla": "1.9.1"
 		},
 		{
-			"version": "1.9"
+			"Vanilla": "1.9"
 		},
 		{
-			"version": "1.8.9"
+			"Vanilla": "1.8.9"
+		},
+		{
+			"Fabric": "1.19.2 Fabric"
+		},
+		{
+			"Fabric": "1.19.1 Fabric"
+		},
+		{
+			"Fabric": "1.19 Fabric"
+		},
+		{
+			"Fabric": "1.18.2 Fabric"
+		},
+		{
+			"Fabric": "1.18.1 Fabric"
+		},
+		{
+			"Fabric": "1.18 Fabric"
+		},
+		{
+			"Fabric": "1.17.1 Fabric"
+		},
+		{
+			"Fabric": "1.17 Fabric"
+		},
+		{
+			"Fabric": "1.16.5 Fabric"
+		},
+		{
+			"Fabric": "1.16.4 Fabric"
+		},
+		{
+			"Fabric": "1.16.3 Fabric"
+		},
+		{
+			"Fabric": "1.16.2 Fabric"
+		},
+		{
+			"Fabric": "1.16.1 Fabric"
+		},
+		{
+			"Fabric": "1.16 Fabric"
+		},
+		{
+			"Fabric": "1.15.2 Fabric"
+		},
+		{
+			"Fabric": "1.15.1 Fabric"
+		},
+		{
+			"Fabric": "1.15 Fabric"
+		},
+		{
+			"Fabric": "1.14.4 Fabric"
+		},
+		{
+			"Fabric": "1.14.3 Fabric"
+		},
+		{
+			"Fabric": "1.14.2 Fabric"
+		},
+		{
+			"Fabric": "1.14.1 Fabric"
+		},
+		{
+			"Fabric": "1.14 Fabric"
 		}
 	]
 }
