@@ -124,7 +124,7 @@
 		}
 	],
 	"Fabric": [{
-		
+
 			"MCFab": "1.19.2 Fabric"
 		},
 		{
@@ -189,6 +189,70 @@
 		},
 		{
 			"MCFab": "1.14 Fabric"
+		}
+	],
+	"Forge": [{
+			"MCForge": "1.19.2 Forge"
+		},
+		{
+			"MCForge": "1.19.1 Forge"
+		},
+		{
+			"MCForge": "1.19 Forge"
+		},
+		{
+			"MCForge": "1.18.1 Forge"
+		},
+		{
+			"MCForge": "1.18 Forge"
+		},
+		{
+			"MCForge": "1.17.1 Forge"
+		},
+		{
+			"MCForge": "1.16.5 Forge"
+		},
+		{
+			"MCForge": "1.16.4 Forge"
+		},
+		{
+			"MCForge": "1.16.3 Forge"
+		},
+		{
+			"MCForge": "1.16.2 Forge"
+		},
+		{
+			"MCForge": "1.16.1 Forge"
+		},
+		{
+			"MCForge": "1.15.2 Forge"
+		},
+		{
+			"MCForge": "1.15.1 Forge"
+		},
+		{
+			"MCForge": "1.15 Forge"
+		},
+		{
+			"MCForge": "1.14.3 Forge"
+		},
+		{
+			"MCForge": "1.14.2 Forge"
+		},
+		{
+			"MCForge": "1.13.2 Forge"
+		},
+		{
+			"MCForge": "1.12.2 Forge"
+		},
+		{
+			"MCForge": "1.12.1 Forge"
+		},
+		{
+			"MCForge": "1.12 Forge"
+		},
+		{
+			"MCForge": "1.8.9 Forge"
 		}
 	]
 }
