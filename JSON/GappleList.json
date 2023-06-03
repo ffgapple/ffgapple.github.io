@@ -208,27 +208,19 @@
 	"Fabric": [{
 		
 			"MCFab": "1.19.2 Fabric",
-			"BigData":[{
 			"Publisher": "FFGapple (@ffgapple)",
 			"Developer": "Fabric Team",
 			"Website": "https://fabricmc.net/",
 			"Date": "30.09.2022",
 			"Download": "https://ffgapple.github.io/data/fabric/1.19.2fabric.zip"
-			}
-				
-			]
-			
 		},
 		{
 			"MCFab": "1.19.1 Fabric",
-			"BigData":[{
 			"Publisher": "FFGapple (@ffgapple)",
 			"Developer": "Fabric Team",
 			"Website": "https://fabricmc.net/",
 			"Date": "30.09.2022",
 			"Download": "https://ffgapple.github.io/data/fabric/1.19.1fabric.zip"
-			}]
-			
 		},
 		{
 			"MCFab": "1.19 Fabric",
