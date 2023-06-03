@@ -1,258 +1,556 @@
 {
 	"Vanilla": [{
-			"MCVan": "1.19.4"
+			"MCVan": "1.19.4",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.19.3"
+			"MCVan": "1.19.3",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.19.2"
+			"MCVan": "1.19.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.19.1"
+			"MCVan": "1.19.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.19"
+			"MCVan": "1.19",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.18.2"
+			"MCVan": "1.18.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.18.1"
+			"MCVan": "1.18.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.18"
+			"MCVan": "1.18",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.17.1"
+			"MCVan": "1.17.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.17"
+			"MCVan": "1.17",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.16.5"
+			"MCVan": "1.16.5",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.16.4"
+			"MCVan": "1.16.4",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.16.3"
+			"MCVan": "1.16.3",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.16.2"
+			"MCVan": "1.16.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.16.1"
+			"MCVan": "1.16.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.16"
+			"MCVan": "1.16",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.15.2"
+			"MCVan": "1.15.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.15.1"
+			"MCVan": "1.15.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.15"
+			"MCVan": "1.15",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.14.4"
+			"MCVan": "1.14.4",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.14.3"
+			"MCVan": "1.14.3",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.14.2"
+			"MCVan": "1.14.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.14.1"
+			"MCVan": "1.14.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.14"
+			"MCVan": "1.14",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.13.2"
+			"MCVan": "1.13.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.13.1"
+			"MCVan": "1.13.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.13"
+			"MCVan": "1.13",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.12.2"
+			"MCVan": "1.12.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.12.1"
+			"MCVan": "1.12.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.12"
+			"MCVan": "1.12",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.11.2"
+			"MCVan": "1.11.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.11.1"
+			"MCVan": "1.11.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.10.2"
+			"MCVan": "1.10.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.10.1"
+			"MCVan": "1.10.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.10"
+			"MCVan": "1.10",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.9.4"
+			"MCVan": "1.9.4",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.9.3"
+			"MCVan": "1.9.3",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.9.2"
+			"MCVan": "1.9.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.9.1"
+			"MCVan": "1.9.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.9"
+			"MCVan": "1.9",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		},
 		{
-			"MCVan": "1.8.9"
+			"MCVan": "1.8.9",
+			"Publisher": "Mojang (@Mojang)",
+			"Date": "?"
 		}
 	],
 	"Fabric": [{
-
-			"MCFab": "1.19.2 Fabric"
+		
+			"MCFab": "1.19.2 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.19.2fabric.zip"
 		},
 		{
-			"MCFab": "1.19.1 Fabric"
+			"MCFab": "1.19.1 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.19.1fabric.zip"
 		},
 		{
-			"MCFab": "1.19 Fabric"
+			"MCFab": "1.19 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.19fabric.zip"
 		},
 		{
-			"MCFab": "1.18.2 Fabric"
+			"MCFab": "1.18.2 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.18.2fabric.zip"
 		},
 		{
-			"MCFab": "1.18.1 Fabric"
+			"MCFab": "1.18.1 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.18.1fabric.zip"
 		},
 		{
-			"MCFab": "1.18 Fabric"
+			"MCFab": "1.18 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.18fabric.zip"
 		},
 		{
-			"MCFab": "1.17.1 Fabric"
+			"MCFab": "1.17.1 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.17.1fabric.zip"
 		},
 		{
-			"MCFab": "1.17 Fabric"
+			"MCFab": "1.17 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.17fabric.zip"
 		},
 		{
-			"MCFab": "1.16.5 Fabric"
+			"MCFab": "1.16.5 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.16.5fabric.zip"
 		},
 		{
-			"MCFab": "1.16.4 Fabric"
+			"MCFab": "1.16.4 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.16.4fabric.zip"
 		},
 		{
-			"MCFab": "1.16.3 Fabric"
+			"MCFab": "1.16.3 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.16.3fabric.zip"
 		},
 		{
-			"MCFab": "1.16.2 Fabric"
+			"MCFab": "1.16.2 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.16.2fabric.zip"
 		},
 		{
-			"MCFab": "1.16.1 Fabric"
+			"MCFab": "1.16.1 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.16.1fabric.zip"
 		},
 		{
-			"MCFab": "1.16 Fabric"
+			"MCFab": "1.16 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.16fabric.zip"
 		},
 		{
-			"MCFab": "1.15.2 Fabric"
+			"MCFab": "1.15.2 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.15.2fabric.zip"
 		},
 		{
-			"MCFab": "1.15.1 Fabric"
+			"MCFab": "1.15.1 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.15.1fabric.zip"
 		},
 		{
-			"MCFab": "1.15 Fabric"
+			"MCFab": "1.15 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.15fabric.zip"
 		},
 		{
-			"MCFab": "1.14.4 Fabric"
+			"MCFab": "1.14.4 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.14.4fabric.zip"
 		},
 		{
-			"MCFab": "1.14.3 Fabric"
+			"MCFab": "1.14.3 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.14.3fabric.zip"
 		},
 		{
-			"MCFab": "1.14.2 Fabric"
+			"MCFab": "1.14.2 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.14.2fabric.zip"
 		},
 		{
-			"MCFab": "1.14.1 Fabric"
+			"MCFab": "1.14.1 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.14.1fabric.zip"
 		},
 		{
-			"MCFab": "1.14 Fabric"
+			"MCFab": "1.14 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/fabric/1.14fabric.zip"
 		}
 	],
-	"Forge": [{
-			"MCForge": "1.19.2 Forge"
+	"Forge":[
+		{
+			"MCForge": "1.19.2 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.19.2-forge-43.1.32.zip"
 		},
 		{
-			"MCForge": "1.19.1 Forge"
+			"MCForge": "1.19.1 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.19.1-forge-42.0.9.zip"
 		},
 		{
-			"MCForge": "1.19 Forge"
+			"MCForge": "1.19 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.19-forge-41.1.0.zip"
 		},
 		{
-			"MCForge": "1.18.1 Forge"
+			"MCForge": "1.18.1 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.18.1-forge-39.1.2.zip"
 		},
 		{
-			"MCForge": "1.18 Forge"
+			"MCForge": "1.18 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.18-forge-38.0.17.zip"
 		},
 		{
-			"MCForge": "1.17.1 Forge"
+			"MCForge": "1.17.1 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.17.1-forge-37.1.1.zip"
 		},
 		{
-			"MCForge": "1.16.5 Forge"
+			"MCForge": "1.16.5 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.16.5-forge-36.2.39.zip"
 		},
 		{
-			"MCForge": "1.16.4 Forge"
+			"MCForge": "1.16.4 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.16.4-forge-35.1.37.zip"
 		},
 		{
-			"MCForge": "1.16.3 Forge"
+			"MCForge": "1.16.3 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.16.3-forge-34.1.42.zip"
 		},
 		{
-			"MCForge": "1.16.2 Forge"
+			"MCForge": "1.16.2 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.16.2-forge-33.0.61.zip"
 		},
 		{
-			"MCForge": "1.16.1 Forge"
+			"MCForge": "1.16.1 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.16.1-forge-32.0.108.zip"
 		},
 		{
-			"MCForge": "1.15.2 Forge"
+			"MCForge": "1.15.2 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.15.2-forge-31.2.57.zip"
 		},
 		{
-			"MCForge": "1.15.1 Forge"
+			"MCForge": "1.15.1 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.15.1-forge-30.0.51.zip"
 		},
 		{
-			"MCForge": "1.15 Forge"
+			"MCForge": "1.15 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.15-forge-29.0.4.zip"
 		},
 		{
-			"MCForge": "1.14.3 Forge"
+			"MCForge": "1.14.3 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.14.3-forge-27.0.60.zip"
 		},
 		{
-			"MCForge": "1.14.2 Forge"
+			"MCForge": "1.14.2 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.14.2-forge-26.0.63.zip"
 		},
 		{
-			"MCForge": "1.13.2 Forge"
+			"MCForge": "1.13.2 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.13.2-forge-25.0.223.zip"
 		},
 		{
-			"MCForge": "1.12.2 Forge"
+			"MCForge": "1.12.2 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.12.2-forge-14.23.5.2860.zip"
 		},
 		{
-			"MCForge": "1.12.1 Forge"
+			"MCForge": "1.12.1 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.12.1-forge1.12.1-14.22.1.2485.zip"
 		},
 		{
-			"MCForge": "1.12 Forge"
+			"MCForge": "1.12 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.12-forge1.12-14.21.1.2443.zip"
 		},
 		{
-			"MCForge": "1.8.9 Forge"
+			"MCForge": "1.8.9 Forge",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Forge Team",
+			"Website": "https://files.minecraftforge.net/net/minecraftforge/forge/",
+			"Date": "30.09.2022",
+			"Download": "https://ffgapple.github.io/data/forge/1.8.9-forge1.8.9-11.15.1.2318-1.8.9.zip"
 		}
 	]
 }
