@@ -338,6 +338,42 @@
 	],
 	"Fabric": [{
 		
+			"MCFab": "1.20.1 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "22.06.2023",
+			"Download": "https://ffgapple.github.io/data/fabric/1.20.1fabric.zip"
+		},
+		{
+		
+			"MCFab": "1.20 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "22.06.2023",
+			"Download": "https://ffgapple.github.io/data/fabric/1.20fabric.zip"
+		},
+		{
+		
+			"MCFab": "1.19.4 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "22.06.2023",
+			"Download": "https://ffgapple.github.io/data/fabric/1.19.4fabric.zip"
+		},
+		{
+		
+			"MCFab": "1.19.3 Fabric",
+			"Publisher": "FFGapple (@ffgapple)",
+			"Developer": "Fabric Team",
+			"Website": "https://fabricmc.net/",
+			"Date": "22.06.2023",
+			"Download": "https://ffgapple.github.io/data/fabric/1.19.3fabric.zip"
+		},
+		{
+		
 			"MCFab": "1.19.2 Fabric",
 			"Publisher": "FFGapple (@ffgapple)",
 			"Developer": "Fabric Team",
