@@ -1,0 +1,16 @@
+{
+	"Update":[
+		{
+			"Version": "1.0.0b",
+			"Publisher": "FFGapple Systems",
+			"Developer": "@ffgapple",
+			"Date": "10.07.2023",
+			"German": "Erste Beta-Version. Geschützt durch die GNU GPL Lizenz.",
+			"Spanish": "Primera versión beta. Protegida bajo la licencia GNU GPL.",
+			"French": "Première version bêta. Protégée par la licence GNU GPL.",
+			"English": "First Beta Release. Protected under GNU GPL License.",
+			"Turkish": "İlk Beta Sürümü. GNU GPL Lisansı altında korunmaktadır.",
+			"Chinese": "第一个Beta版本。受GNU GPL许可证保护。"
+		}
+	]
+}
