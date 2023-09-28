@@ -1,5 +1,21 @@
 {
 	"Vanilla": [{
+			"MCVan": "1.20.2",
+			"Publisher": "Mojang (@Mojang)",
+			"Developer": "Microsoft",
+			"Website": "https://mojang.net/",
+			"Date": "21.09.2023",
+			"Download": ""
+		},
+		{
+			"MCVan": "1.20.1",
+			"Publisher": "Mojang (@Mojang)",
+			"Developer": "Microsoft",
+			"Website": "https://mojang.net/",
+			"Date": "12.06.2023",
+			"Download": ""
+		},
+		{
 			"MCVan": "1.20",
 			"Publisher": "Mojang (@Mojang)",
 			"Developer": "Microsoft",
