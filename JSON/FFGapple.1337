@@ -1,0 +1,25 @@
+{
+  "Profiles": [
+    {
+      "username": "fx",
+      "idjson": "ff",
+      "secret": "aaaaa",
+      "directserver": "",
+      "directport": "",
+      "width": "",
+      "heigth": "",
+      "xversion": "1.20.2",
+      "rungapple": "Yes",
+      "codename": "1.20.2",
+      "directory": "",
+      "online": "no",
+      "creationdate": "07.08.2023",
+      "modded": null,
+      "customversion": "Vanilla",
+      "img": "https://minotar.net/cube/ffgapple/100.png",
+      "email": "",
+      "pass": "",
+      "ffmem": "15360"
+    }
+  ]
+}
